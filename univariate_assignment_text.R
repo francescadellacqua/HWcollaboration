@@ -5,7 +5,7 @@ trees
 library(car)
 # Anova(my_mod, type=3)
 # Compare the p-values you observe using the function Anova to those generated using summary.
-
+hey girl 
 
 # For each species address the following additional questions:
 
